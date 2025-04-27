@@ -6,3 +6,6 @@
 
 # Тестирование фильтрации и сортировки с техникой "Попарное тестирование"
 [Ссылка на документ] (https://docs.google.com/spreadsheets/d/1bEWuYqJ_qm-VQnqIVAmkbCtpdIf-rYSHp-2bVWkNi1s/edit?hl=ru&gid=0#gid=0)
+
+# Тестирование модуля оплаты Paypal техникой тест-дизайна "Таблица принятия решений"
+[Ссылка на документ] (https://docs.google.com/spreadsheets/d/1gIuwXwpRw6DOWE_3WuNDO2IBHuIoGF61VgIIS5NQGqQ/edit?gid=0#gid=0)
